@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Dev Dalal - dalaldev2002@gmail.com.com
-Project Link: [https://github.com/yourusername/algorithm-performance-dashboard](https://github.com/yourusername/algorithm-performance-dashboard)
+Project Link: [https://github.com/devdalal2002/algorithm-performance-dashboard](https://github.com/devdalal2002/algorithm-performance-dashboard)
 
 ## Acknowledgments
 
