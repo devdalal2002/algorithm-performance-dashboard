@@ -18,8 +18,8 @@ An interactive web application for visualizing and comparing the performance of 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/algorithm-performance-dashboard.git
-cd algorithm-performance-dashboard
+git clone https://github.com/devdalal2002/algorithm-performance-dashboard.git
+cd algorithm-performance-dashboard/project
 ```
 
 2. Create and activate a virtual environment (recommended):
@@ -133,7 +133,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Dev Dalal - dalaldev2002@gmail.com
+Dev Dalal - dalaldh2002@gmail.com
 Project Link: [https://github.com/devdalal2002/algorithm-performance-dashboard](https://github.com/devdalal2002/algorithm-performance-dashboard)
 
 ## Acknowledgments
